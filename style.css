@@ -14,7 +14,7 @@ h1{
 p{
     color: white;
     text-align: center;
-    font-size: 25px;
+    font-size: 15px;
 }
 .header{
     background-image: url(images/donation9.jpg);
@@ -34,4 +34,11 @@ p{
         text-align: center;
         
     }
-   
+    
+    h2{
+        color: black;
+        text-align: center;
+    }
+   p{
+    color: darkgray;
+   }
